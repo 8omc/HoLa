@@ -40,8 +40,11 @@ li a {
   color: #807b7b;
 }
 
-.header-right img {
+.header-logo {
   position:absolute;
+}
+
+.header-right {
 }
 
 .top-wrapper {
