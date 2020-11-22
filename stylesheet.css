@@ -41,7 +41,7 @@ li a {
 }
 
 .header-right {
-
+  position:absolute;
 }
 
 .top-wrapper {
